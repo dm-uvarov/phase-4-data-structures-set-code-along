@@ -61,7 +61,7 @@ describe MySet do
     end
   end
 
-  # BONUS! Uncomment for an extra challenge.
+  # # BONUS! Uncomment for an extra challenge.
   # describe "Bonus methods ⭐️" do
   #   describe ".[]" do
   #     it "can be initialized using bracket notation" do
